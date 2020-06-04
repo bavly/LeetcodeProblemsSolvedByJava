@@ -4,7 +4,6 @@ package leetCode30days;
 public class MiddleOfLinkedList {
 
 	public ListNode middleNode(ListNode head) {
-		
 
 		int counter = 0;
 		int middle = 0;
