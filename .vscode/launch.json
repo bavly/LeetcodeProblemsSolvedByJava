@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackspaceStringCompare<leetCode30days>",
+            "request": "launch",
+            "mainClass": "leetCode30days.BackspaceStringCompare",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ContiguousArray<leetCode30days>",
+            "request": "launch",
+            "mainClass": "leetCode30days.ContiguousArray",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CousinsInBinaryTree<leetCode30days>",
+            "request": "launch",
+            "mainClass": "leetCode30days.CousinsInBinaryTree",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FirstUniqueCharacterInString<leetCode30days>",
+            "request": "launch",
+            "mainClass": "leetCode30days.FirstUniqueCharacterInString",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GroupAnagrams<leetCode30days>",
+            "request": "launch",
+            "mainClass": "leetCode30days.GroupAnagrams",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LastStoneWeight<leetCode30days>",
+            "request": "launch",
+            "mainClass": "leetCode30days.LastStoneWeight",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LuxoftQuize<leetCode30days>",
+            "request": "launch",
+            "mainClass": "leetCode30days.LuxoftQuize",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberComplement<leetCode30days>",
+            "request": "launch",
+            "mainClass": "leetCode30days.NumberComplement",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SingleElementInSortedArray<leetCode30days>",
+            "request": "launch",
+            "mainClass": "leetCode30days.SingleElementInSortedArray",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-hashMap<leetCode30days>",
+            "request": "launch",
+            "mainClass": "leetCode30days.hashMap",
+            "projectName": "leetCode30days"
+        }
+    ]
+}
