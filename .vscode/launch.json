@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - NumberOfIslands",
+            "request": "launch",
+            "mainClass": "leetCode30days.NumberOfIslands",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ProductOfArrayExceptSelf",
             "request": "launch",
             "mainClass": "leetCode30days.ProductOfArrayExceptSelf",
