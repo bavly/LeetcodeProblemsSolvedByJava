@@ -1,12 +1,7 @@
 package leetCode30days;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
-import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.TreeMap;
-import java.util.stream.Collectors;
 
 @SuppressWarnings("rawtypes")
 public class LuxoftQuize implements Comparator {

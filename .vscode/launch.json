@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch zalendo2",
+            "request": "launch",
+            "mainClass": "leetCode30days.zalendo2",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
+            "name": "Launch Zalendo1",
+            "request": "launch",
+            "mainClass": "leetCode30days.Zalendo1",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BestTimeToBuyAndSellStockII",
+            "request": "launch",
+            "mainClass": "leetCode30days.BestTimeToBuyAndSellStockII",
+            "projectName": "leetCode30days"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NumberOfIslands",
             "request": "launch",
             "mainClass": "leetCode30days.NumberOfIslands",

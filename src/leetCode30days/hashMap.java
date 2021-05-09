@@ -1,6 +1,7 @@
 package leetCode30days;
 
 import java.util.HashMap;
+import java.util.Map;
 
 public class hashMap<charachter> {
 
@@ -13,7 +14,7 @@ public class hashMap<charachter> {
 
 	public int numJewelsInStones(String j, String S) {
 		
-		HashMap <Character , Boolean> hm = new HashMap <Character,Boolean>();
+		Map <Character , Boolean> hm = new HashMap <Character,Boolean>();
 		
 		for (int i=0 ; i< j.length() ; i++)
 		{
@@ -32,6 +33,5 @@ public class hashMap<charachter> {
 		return counter;
 
 	}
-	// TODO Auto-generated method stub
 
 }

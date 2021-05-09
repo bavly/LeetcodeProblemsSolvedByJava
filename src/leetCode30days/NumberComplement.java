@@ -3,7 +3,6 @@ package leetCode30days;
 public class NumberComplement {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		findComplement(5);
 	}

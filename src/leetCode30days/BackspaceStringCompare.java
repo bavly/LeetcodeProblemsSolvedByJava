@@ -5,7 +5,6 @@ import java.util.Stack;
 public class BackspaceStringCompare {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		//System.out.println(backspaceCompare("y#f#o##f", "y#f#o##f"));
          System.out.println(backspaceCompare2("ab#c", "ad#c"));
 	}

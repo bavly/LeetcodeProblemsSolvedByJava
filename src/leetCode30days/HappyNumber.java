@@ -1,7 +1,5 @@
 package leetCode30days;
 
-import java.util.Stack;
-
 public class HappyNumber {
 
 	public boolean isHappy(int n) {
